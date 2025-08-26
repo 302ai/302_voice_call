@@ -2,13 +2,13 @@
 
 <p align="center">AI 音声通話は、リアルタイム音声インターフェースを通じて AI と音声チャットを行うことができます。対講機モードと電話モードをサポートしており、AI の人格タイプをカスタマイズすることもできます。</p>
 
-<p align="center"><a href="https://302.ai/ja/tools/realtime/" target="blank"><img src="https://file.302.ai/gpt/imgs/github/20250102/72a57c4263944b73bf521830878ae39a.png" /></a></p >
+<p align="center"><a href="https://302.ai/product/detail/44" target="blank"><img src="https://file.302.ai/gpt/imgs/github/20250102/72a57c4263944b73bf521830878ae39a.png" /></a></p >
 
 <p align="center"><a href="README_zh.md">中文</a> | <a href="README.md">English</a> | <a href="README_ja.md">日本語</a></p>
 
 ![1. インターコム](docs/语音通话jp.png)
 
-[302.AI](https://302.ai/ja/)からの[AIボイスコール](https://302.ai/ja/tools/realtime/)のオープンソース版です。
+[302.AI](https://302.ai/ja/)からの[AIボイスコール](https://302.ai/product/detail/44)のオープンソース版です。
 302.AIに直接ログインして、コードも設定もなくオンライン版を使用できます。または、このプロジェクトを自分のニーズに合わせて修正し、302.AIのAPI KEYを入力して、自分でデプロイすることもできます。
 
 ## インターフェースプレビュー

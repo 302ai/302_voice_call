@@ -2,13 +2,13 @@
 
 <p align="center">AI语音通话通过实时语音接口与AI进行语音聊天，支持对讲机模式和电话模式，还可以自定义AI的人格类型。</p>
 
-<p align="center"><a href="https://302.ai/tools/realtime/" target="blank"><img src="https://file.302.ai/gpt/imgs/github/20250102/72a57c4263944b73bf521830878ae39a.png" /></a></p >
+<p align="center"><a href="https://302.ai/product/detail/44" target="blank"><img src="https://file.302.ai/gpt/imgs/github/20250102/72a57c4263944b73bf521830878ae39a.png" /></a></p >
 
 <p align="center"><a href="README_zh.md">中文</a> | <a href="README.md">English</a> | <a href="README_ja.md">日本語</a></p>
 
 ![1. 对讲机](docs/语音通话.png)
 
-来自[302.AI](https://302.ai)的[AI语音通话](https://302.ai/tools/realtime/)的开源版本。
+来自[302.AI](https://302.ai)的[AI语音通话](https://302.ai/product/detail/44)的开源版本。
 你可以直接登录302.AI，零代码零配置使用在线版本。
 或者对本项目根据自己的需求进行修改，传入302.AI的API KEY，自行部署。
 

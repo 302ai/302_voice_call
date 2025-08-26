@@ -2,13 +2,13 @@
 
 <p align="center">AI voice calls enable voice chatting with AI through a real-time voice interface. It supports walkie-talkie mode and telephone mode, and also allows users to customize the personality type of AI.</p>
 
-<p align="center"><a href="https://302.ai/en/tools/realtime/" target="blank"><img src="https://file.302.ai/gpt/imgs/github/20250102/72a57c4263944b73bf521830878ae39a.png" /></a></p >
+<p align="center"><a href="https://302.ai/product/detail/44" target="blank"><img src="https://file.302.ai/gpt/imgs/github/20250102/72a57c4263944b73bf521830878ae39a.png" /></a></p >
 
 <p align="center"><a href="README_zh.md">中文</a> | <a href="README.md">English</a> | <a href="README_ja.md">日本語</a></p>
 
 ![2. Phone - Dark](docs/语音通话en.png)
 
-The open-source version of [AI Voice Call](https://302.ai/en/tools/realtime/) from [302.AI](https://302.ai/en/).
+The open-source version of [AI Voice Call](https://302.ai/product/detail/44) from [302.AI](https://302.ai/en/).
 
 You can directly log in to 302.AI and use the online version with zero code and zero configuration. Alternatively, modify this project according to your needs, input your 302.AI API KEY, and deploy it yourself.
 
